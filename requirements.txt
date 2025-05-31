@@ -1,0 +1,6 @@
+express,
+multer,
+jwt,
+mongoose,
+dotenv,
+bcrypt
